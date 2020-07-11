@@ -9,3 +9,7 @@ raise Exception("syntaxError")
 myList = ["pirmas", "antras", "trecias"]
 #pasiekti listo antra elementa
 print(myList[0])
+
+# funkcijos kurimas
+    def random_exeption():
+        print("")

@@ -2,12 +2,13 @@
 
 #raise SyntaxError("Syntax error")
 
-#try:
- #   myList = []
-    #print("paleidziam koda try blocke")
- #   myList = (1)
+# try:
+    # myList = []
+    # print("paleidziam koda try blocke")
+    # myList[0]
+# except IndexError:
+    # print("printinam kazka")
 
-
-#except:
- #   print("printinam kazka")
-
+# funkcijos kurimas
+    def random_exeption():
+        print("")
