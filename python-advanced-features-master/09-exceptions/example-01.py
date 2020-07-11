@@ -1,14 +1,8 @@
-#raise Exception("This is a manually raised exception!")
+import random
 
-#raise SyntaxError("Syntax error")
+random_exp = [IndexError, SyntaxError, KeyboardInterrupt]
 
-# try:
-    # myList = []
-    # print("paleidziam koda try blocke")
-    # myList[0]
-# except IndexError:
-    # print("printinam kazka")
 
-# funkcijos kurimas
-    def random_exeption():
-        print("")
+def random_exeption():
+    print(random.choice(random_exp))
+

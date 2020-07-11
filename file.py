@@ -13,3 +13,6 @@ print(myList[0])
 # funkcijos kurimas
     def random_exeption():
         print("")
+
+#funkcijos kvietimas
+    random_exeption()
