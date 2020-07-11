@@ -4,3 +4,8 @@ print("hello")
 
 # taip sukuraimas exeptionas
 raise Exception("syntaxError")
+
+#listo sukurimas
+myList = ["pirmas", "antras", "trecias"]
+#pasiekti listo antra elementa
+print(myList[0])
