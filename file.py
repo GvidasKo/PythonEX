@@ -1,3 +1,6 @@
 #printinam stringa i terminala
 print("hello")
-#is git hub
+
+
+# taip sukuraimas exeptionas
+raise Exception("syntaxError")
