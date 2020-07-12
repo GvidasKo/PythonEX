@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Reposatory" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -28,29 +31,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.my_uzduotis">
-    <configuration name="Exc3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Reposatory" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="E:\Python3\PYCharm\01_hello_world\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-features-master/09-exceptions" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-features-master/09-exceptions/Exc3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="example-02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.nauja uzduotis">
+    <configuration name="multiprocesing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Reposatory" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +44,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-features-master/10-threading/example-02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-features-master/10-threading/multiprocesing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +53,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="example-03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="my uzduotis 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Reposatory" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,28 +65,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-features-master/10-threading/example-03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="my_custom_exception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Reposatory" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="E:\Python3\PYCharm\SDE\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-features-master/09-exceptions" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-features-master/09-exceptions/my_custom_exception.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-features-master/10-threading/my uzduotis 2" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,13 +95,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="nauja uzduotis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Reposatory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Python3\PYCharm\SDA Python EN\.idea\VirtualEnvironment\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-features-master/11-multiprocessing" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-features-master/11-multiprocessing/nauja uzduotis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="socket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Reposatory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Python3\PYCharm\01_hello_world\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-features-master/10-threading" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-features-master/10-threading/socket.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.nauja uzduotis" />
+        <item itemvalue="Python.multiprocesing" />
+        <item itemvalue="Python.socket" />
+        <item itemvalue="Python.my uzduotis 2" />
         <item itemvalue="Python.my_uzduotis" />
-        <item itemvalue="Python.example-03" />
-        <item itemvalue="Python.example-02" />
-        <item itemvalue="Python.my_custom_exception" />
-        <item itemvalue="Python.Exc3" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +169,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="414" y="57" key="#Exeption/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594451126175" />
+    <state x="431" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594541314254">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="431" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594541314254" />
     <state x="414" y="57" key="#example-01" timestamp="1594452174343">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -182,6 +189,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="420" y="8" key="#file/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594448617822" />
+    <state x="414" y="57" key="#multiprocesing" timestamp="1594547180885">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="57" key="#multiprocesing/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594547180885" />
     <state x="414" y="57" key="#my_custom_exception" timestamp="1594463427214">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -190,21 +201,37 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="414" y="57" key="#my_uzduotis/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594464968603" />
-    <state width="1344" height="174" key="GridCell.Tab.0.bottom" timestamp="1594537408105">
+    <state x="414" y="57" key="#my_uzduotis_2" timestamp="1594541626918">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594537408105" />
-    <state width="1344" height="174" key="GridCell.Tab.0.center" timestamp="1594537408104">
+    <state x="414" y="57" key="#my_uzduotis_2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594541626918" />
+    <state x="414" y="57" key="#nauja_uzduotis" timestamp="1594552657856">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594537408104" />
-    <state width="1344" height="174" key="GridCell.Tab.0.left" timestamp="1594537408104">
+    <state x="414" y="57" key="#nauja_uzduotis/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594552657856" />
+    <state x="414" y="57" key="#socket" timestamp="1594545689665">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594537408104" />
-    <state width="1344" height="174" key="GridCell.Tab.0.right" timestamp="1594537408105">
+    <state x="414" y="57" key="#socket/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594545689665" />
+    <state width="1344" height="110" key="GridCell.Tab.0.bottom" timestamp="1594552747375">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594537408105" />
+    <state width="1344" height="110" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594552747375" />
+    <state width="1344" height="110" key="GridCell.Tab.0.center" timestamp="1594552747375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="110" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594552747375" />
+    <state width="1344" height="110" key="GridCell.Tab.0.left" timestamp="1594552747374">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="110" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594552747374" />
+    <state width="1344" height="110" key="GridCell.Tab.0.right" timestamp="1594552747375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="110" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594552747375" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1594553325169">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594553325169" />
   </component>
 </project>
