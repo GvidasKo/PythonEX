@@ -1,5 +1,5 @@
 #printinam stringa i terminala
-print("hello")
+print("hello world!")
 
 
 # taip sukuraimas exeptionas
