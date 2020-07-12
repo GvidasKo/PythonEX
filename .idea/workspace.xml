@@ -50,19 +50,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exeption" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="example-02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Reposatory" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="E:\Python3\PYCharm\SDA Python EN\.idea\VirtualEnvironment\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="SDK_HOME" value="E:\Python3\PYCharm\SDE\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-features-master/10-threading" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exeption.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-features-master/10-threading/example-02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,19 +71,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="example-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="example-03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Reposatory" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Darth\Desktop\Py-intermidiate\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-features-master/09-exceptions" />
+      <option name="SDK_HOME" value="E:\Python3\PYCharm\HangMan\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-features-master/10-threading" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-features-master/09-exceptions/example-01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-features-master/10-threading/example-03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,10 +137,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.my_uzduotis" />
+        <item itemvalue="Python.example-03" />
+        <item itemvalue="Python.example-02" />
         <item itemvalue="Python.my_custom_exception" />
         <item itemvalue="Python.Exc3" />
-        <item itemvalue="Python.example-01" />
-        <item itemvalue="Python.Exeption" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +170,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="414" y="57" key="#example-01/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594452174343" />
+    <state x="414" y="57" key="#example-02" timestamp="1594535244810">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="57" key="#example-02/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594535244810" />
+    <state x="414" y="57" key="#example-03" timestamp="1594535438913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="57" key="#example-03/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594535438913" />
     <state x="420" y="8" key="#file" timestamp="1594448617822">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -182,21 +190,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="414" y="57" key="#my_uzduotis/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594464968603" />
-    <state width="1344" height="174" key="GridCell.Tab.0.bottom" timestamp="1594469492441">
+    <state width="1344" height="174" key="GridCell.Tab.0.bottom" timestamp="1594537408105">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594469492441" />
-    <state width="1344" height="174" key="GridCell.Tab.0.center" timestamp="1594469492441">
+    <state width="1344" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594537408105" />
+    <state width="1344" height="174" key="GridCell.Tab.0.center" timestamp="1594537408104">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594469492441" />
-    <state width="1344" height="174" key="GridCell.Tab.0.left" timestamp="1594469492440">
+    <state width="1344" height="174" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594537408104" />
+    <state width="1344" height="174" key="GridCell.Tab.0.left" timestamp="1594537408104">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594469492440" />
-    <state width="1344" height="174" key="GridCell.Tab.0.right" timestamp="1594469492441">
+    <state width="1344" height="174" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594537408104" />
+    <state width="1344" height="174" key="GridCell.Tab.0.right" timestamp="1594537408105">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594469492441" />
+    <state width="1344" height="174" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594537408105" />
   </component>
 </project>

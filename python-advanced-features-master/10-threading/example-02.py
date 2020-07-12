@@ -2,6 +2,7 @@ import logging
 import time
 import threading
 
+
 l = logging.getLogger("toll_booth")
 h = logging.StreamHandler()
 f = logging.Formatter("%(asctime)s: %(message)s")
@@ -23,11 +24,13 @@ if __name__ == "__main__":
     start_time = time.time()
     for car in cars:
         # launch a new thread for each car
-        new_thread = threading.Thread(target=process_toll_booth_fee, args=(car,))
-        threads.append(new_thread)
-        new_thread.start()
+        # new_thread = threading.Thread(target=process_toll_booth_fee, args=(car,))
+        # threads.append(new_thread)
+        # new_thread.start()
+        with concurrent.futures.ThreadPoolExecuter(max_workers=3) as threader:
+            threader.map(pinigu_surinkimo_stotele, cars)
 
-    for t in threads:
-        t.join()
-    delta_time = time.time() - start_time
+    # for t in threads:
+    #     t.join()
+    # delta_time = time.time() - start_time
     print(f"It took {delta_time:.1f}s to process all the cars.")

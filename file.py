@@ -7,6 +7,7 @@ raise Exception("syntaxError")
 
 #listo sukurimas
 myList = ["pirmas", "antras", "trecias"]
+
 #pasiekti listo antra elementa
 print(myList[0])
 
@@ -97,7 +98,6 @@ if __name__ == "__main__":
     print(prepare_title("this is a section title!"))
 
 # dekoratorius per classe su functtools
-
 import functools
 
 
@@ -127,6 +127,29 @@ def triple_addition(a, b):
 if __name__ == "__main__":
     print(double_addition(2, 2))
     print(triple_addition(1, 1))
+
+#pool threading
+import concurrent.futures
+
+with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
+    executor.submit(fn, *args, **kwargs)
+#threading Locks
+class TollBooth:
+    def __init__(self):
+        self.register = 0.0
+        self.__lock = threading.Lock() #persivadinti
+
+    def process_fee(self, car, fee):
+        l.info(f"Processing {car}'s fee. Current total: {self.register}")
+        with self.__lock: #context menegeris procese riboja svarbius veiksmus
+            new_total = self.register + fee  # Toll booth calculates a new total
+            time.sleep(0.1)  # processing takes 0.1 seconds
+            self.register = new_total  # New total is saved after 0.1 seconds
+        # notice operations outside the critical section are still concurrent
+        time.sleep(1)
+        l.info(f"Done processing {car}'s fee. New total: {self.register}")
+
+        #poto pool threadas issikviecia Process_fee()
 
 #log level atributes
 """
