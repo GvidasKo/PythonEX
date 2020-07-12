@@ -26,6 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Python.my_uzduotis">
     <configuration name="Exc3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -181,21 +182,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="414" y="57" key="#my_uzduotis/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594464968603" />
-    <state width="1344" height="174" key="GridCell.Tab.0.bottom" timestamp="1594466834006">
+    <state width="1344" height="174" key="GridCell.Tab.0.bottom" timestamp="1594469492441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594466834006" />
-    <state width="1344" height="174" key="GridCell.Tab.0.center" timestamp="1594466834006">
+    <state width="1344" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594469492441" />
+    <state width="1344" height="174" key="GridCell.Tab.0.center" timestamp="1594469492441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594466834006" />
-    <state width="1344" height="174" key="GridCell.Tab.0.left" timestamp="1594466834006">
+    <state width="1344" height="174" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594469492441" />
+    <state width="1344" height="174" key="GridCell.Tab.0.left" timestamp="1594469492440">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594466834006" />
-    <state width="1344" height="174" key="GridCell.Tab.0.right" timestamp="1594466834006">
+    <state width="1344" height="174" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594469492440" />
+    <state width="1344" height="174" key="GridCell.Tab.0.right" timestamp="1594469492441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594466834006" />
+    <state width="1344" height="174" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594469492441" />
   </component>
 </project>
